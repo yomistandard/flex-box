@@ -1,0 +1,17 @@
+img{
+    width: 20%;
+    height:20%;
+margin: calc(20%/10);
+transition: transform .5s ease-in-out;
+}
+img:hover{
+    transform:rotate(360deg);
+}
+p{display:inline;
+
+}
+.ul,li{
+    display: inline;
+    font-size: larger;
+    text-align: center;
+}
